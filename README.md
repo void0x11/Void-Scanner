@@ -17,12 +17,6 @@ The Void Scanner is a sophisticated network scanning tool that offers a comprehe
 5. **File Management:** Robust file management procedures ensure accurate saving and retrieval of scan results.
 6. **Cross-Platform Compatibility:** Seamless functionality across diverse operating systems, with adaptable methods and commands.
 
-## Future Enhancements
-1. **Enhanced Error Handling:** Detailed error messages and handling of edge cases to fortify the tool's robustness.
-2. **Extended Scanning Capabilities:** Integration of additional scanning methods such as UDP scanning, OS fingerprinting, and banner grabbing for increased versatility.
-3. **Logging System:** Implementation of a comprehensive logging system for activity tracking and effective debugging.
-4. **Configuration File:** Introduction of a configuration file to enable customized settings for default behaviors, result storage locations, and other user preferences.
-
 ## Dependencies
 - colorama: Used for color-coded terminal text.
 
@@ -31,3 +25,15 @@ To run the Void Scanner tool, follow these steps:
 
 1. Ensure that Python 3.x is installed on your system.
 2. Install the necessary dependency using the following command:
+```pip install colorama```
+
+3. Download the 'void_scanner.py' file from the project repository.
+4. Open a terminal or command prompt and navigate to the directory where 'void_scanner.py' is located.
+5. Run the script using the following command:
+```python void_scanner.py```
+
+## Author
+Ahmed Amin
+
+## GitHub
+void0x11
