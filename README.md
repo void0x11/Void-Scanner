@@ -32,8 +32,5 @@ To run the Void Scanner tool, follow these steps:
 5. Run the script using the following command:
 ```python void_scanner.py```
 
-## Author
-Ahmed Amin
-
 ## GitHub
 void0x11
