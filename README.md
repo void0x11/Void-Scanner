@@ -32,13 +32,17 @@ To run the Void Scanner tool, follow these steps:
 1. Ensure that Python 3.x is installed on your system.
 2. Install the necessary dependency using the following command:
 
-```pip install colorama```
+```
+pip install colorama
+```
 
 4. Download the 'void_scanner.py' file from the project repository.
 5. Open a terminal or command prompt and navigate to the directory where 'void_scanner.py' is located.
 6. Run the script using the following command:
 
-```python void_scanner.py```
+```
+python void_scanner.py
+```
 
 ## GitHub
 void0x11
