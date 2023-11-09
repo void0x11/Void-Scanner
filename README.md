@@ -43,6 +43,3 @@ pip install colorama
 ```
 python void_scanner.py
 ```
-
-## GitHub
-void0x11
